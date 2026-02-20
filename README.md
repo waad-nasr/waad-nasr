@@ -43,7 +43,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=waad-nasr&bg_color=1F222E&color=70A5FD&line=F85D7F&point=FFFFFF&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=waad-nasr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=waad-nasr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
