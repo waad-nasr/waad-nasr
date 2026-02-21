@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Waad</h1>
 <h3 align="center">Flutter Developer | Mobile App Engineer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/waad-nasr" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="28"/>
+</a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+<a href="mailto:waed.nagy8@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
+</a>
+</p>
 
 ---
 
