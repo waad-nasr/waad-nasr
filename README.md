@@ -36,13 +36,13 @@
 ---
 
 ## 📱 Featured Projects
-### 🩺 Doctor Appointments App — 🔗 [GitHub](https://github.com/waad-nasr/projects-doctors-appointment)
+### 🩺 [Doctor Appointments App](https://github.com/waad-nasr/projects-doctors-appointment)
 
 Scalable medical booking app with authentication, role-based access (Patient/Doctor), and appointment scheduling.  
-**Tech:** Flutter, Dart, Bloc, REST APIs, Clean Architecture
+**Tech:** Flutter, Dart, Bloc, Clean Architecture
 
 
-### 📰 News App — 🔗 [GitHub](https://github.com/waad-nasr/News-app)
+### 📰 [News App](https://github.com/waad-nasr/News-app)
 
 Cross-platform news app with real-time API integration, categorization, and search functionality.  
 **Tech:** Flutter, Dart, Bloc, REST APIs
