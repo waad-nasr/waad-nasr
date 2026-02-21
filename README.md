@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/waad-nasr" style="text-decoration: none;">
   <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="28"/>
 </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:waed.nagy8@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
 </a>
@@ -13,10 +13,20 @@
 ---
 
 ## 👩‍💻 About Me
-- 📱 Passionate about building cross-platform mobile apps using Flutter
-- 🏗️ Focused on Clean Architecture & scalable app structure
-- 🔥 Experienced with Firebase, REST APIs & State Management
-- 🎯 Always improving performance & UI/UX quality
+💻 **What I do:**  
+- Build cross-platform apps using **Flutter** and **Dart**.  
+- Focus on creating smooth, responsive, and visually appealing UIs.  
+- Optimize apps for performance, accessibility, and scalability.  
+
+🌱 **Currently learning:**  
+- Advanced state management and architecture patterns in Flutter.  
+- Integrating Flutter apps with backend services like **Node.js** and **Firebase**.  
+- Exploring **animations**, **custom widgets**, and **UI/UX design improvements**.  
+
+🚀 **I’m passionate about:**  
+- Mobile app development and open-source contributions.  
+- Experimenting with new technologies and staying up-to-date with Flutter ecosystem updates.  
+- Sharing knowledge and helping others grow in tech. 
 
 ---
 
@@ -47,13 +57,13 @@
 ## 📱 Featured Projects
 ### 🩺 [Doctor Appointments App](https://github.com/waad-nasr/projects-doctors-appointment)
 
-Scalable medical booking app with authentication, role-based access (Patient/Doctor), and appointment scheduling.  
+- Scalable medical booking app with authentication, role-based access (Patient/Doctor), and appointment scheduling.  
 **Tech:** Flutter, Dart, Bloc, Clean Architecture
 
 
 ### 📰 [News App](https://github.com/waad-nasr/News-app)
 
-Cross-platform news app with real-time API integration, categorization, and search functionality.  
+- Cross-platform news app with real-time API integration, categorization, and search functionality.  
 **Tech:** Flutter, Dart, Bloc, REST APIs
 
 ---
@@ -65,8 +75,5 @@ Cross-platform news app with real-time API integration, categorization, and sear
 </p>
 
 ---
-
-## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/waad-nasr-68015124b)
-- 📧 [waed.nagy8@gmail.com](mailto:waed.nagy8@gmail.com) 
-
+> ✨ "Code is like poetry, and I aim to write it beautifully.  
+      Always learning, always improving, always building."
