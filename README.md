@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/b7YbvdRhkZoAAAAd/how-to-train-your-dragon.gif" width="300" />
+</p>
 <h1 align="center">Hi 👋, I'm Waad</h1>
 <h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 <p align="center">
