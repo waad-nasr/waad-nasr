@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻❕ About Me
+## 👩‍💻 About Me
 - 📱 Passionate about building cross-platform mobile apps using Flutter
 - 🏗️ Focused on Clean Architecture & scalable app structure
 - 🔥 Experienced with Firebase, REST APIs & State Management
@@ -11,7 +11,7 @@
 
 ---
 
-## 💻⚙️ Tech Stack
+## 💻 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
