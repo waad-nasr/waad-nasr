@@ -11,6 +11,14 @@
 <a href="mailto:waed.nagy8@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
 </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/waad-nasr" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/github/white" width="28" />
+  </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1iB7lyGl35v9F6ei1nl07HZ77vRzFNfnS/view" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" width="30" alt="Download CV"/>
+</a>
 </p>
 
 ---
