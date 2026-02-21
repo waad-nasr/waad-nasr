@@ -3,7 +3,7 @@
 
 ---
 
-# 👩‍💻❕ About Me
+## 👩‍💻❕ About Me
 - 📱 Passionate about building cross-platform mobile apps using Flutter
 - 🏗️ Focused on Clean Architecture & scalable app structure
 - 🔥 Experienced with Firebase, REST APIs & State Management
@@ -11,7 +11,7 @@
 
 ---
 
-# 💻⚙️ Tech Stack
+## 💻⚙️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-# 📱 Featured Projects
+## 📱 Featured Projects
 ### 🩺 Doctor Appointments App
 🔗 [GitHub](https://github.com/waad-nasr/projects-doctors-appointment)
 
@@ -51,7 +51,7 @@ Cross-platform news app with real-time API integration, categorization, and sear
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=waad-nasr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=waad-nasr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
@@ -59,7 +59,7 @@ Cross-platform news app with real-time API integration, categorization, and sear
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/waad-nasr-68015124b)
 - 📧 [waed.nagy8@gmail.com](mailto:waed.nagy8@gmail.com) 
 
